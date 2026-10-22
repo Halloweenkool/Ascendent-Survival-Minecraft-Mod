@@ -1,0 +1,54 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/bettertitlescreen-client.toml"
+hash = "41fa382714e6e3bc5c60ea180045307aa93a43085260f0d7451b6faa64ad69c8"
+
+[[files]]
+file = "config/iris.properties"
+hash = "ffc995ccf6530ced1c5676c61cade32c495e62e2919887cad2d176869c54ed3a"
+preserve = true
+
+[[files]]
+file = "mods/bettertitlescreen.pw.toml"
+hash = "7ce187df270f85e0e0a1ceebc5d5b7cd66400ae2789b10ad36124b8e7b30fd55"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "53537a38eacf6f6967d4940b62afdd03d3ffc19ecd41238f175bee5590be49df"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "f1e1a73dcabbb2a556b127730ab2733a5a3211d13cc92c2962ced469c6167a5e"
+metafile = true
+
+[[files]]
+file = "mods/hardmode.pw.toml"
+hash = "f5a1b4f2a6b7f679890a98b0ce7702e3bc86cd8aa009b24721faa3ce8acf58ce"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "124922e3d93489052bd5457653064c248b4f61cd1b9098a04d7dd311357d0a74"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ee002e5d6ad62150afe62bf8a6f254f56630e2ae9d414131f89cf2676664a493"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "8568bd131f58338efcb4e985f7ea3a37ca39d763c788477d3b31670e0e2f4398"
+preserve = true
+
+[[files]]
+file = "resourcepacks/Ascendent Survival Title.zip"
+hash = "764b77b2b25deb7a47dfe94cb3a7e0c562f0e5ca249b28fbee7ae9899ad23d54"
+
+[[files]]
+file = "servers.dat"
+hash = "71a2a742834167d40d153d2fdfa5a81e5adc26610f0bbaa4415fe6486620b725"
+preserve = true
