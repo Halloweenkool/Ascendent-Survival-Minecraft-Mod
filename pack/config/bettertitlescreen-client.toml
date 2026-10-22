@@ -1,0 +1,9 @@
+["custom text"]
+	#Insert the custom title screen text you want here (supports multiple lines)
+	titleScreenText = ["Ascendent Survival"]
+
+[versions]
+	#Show which version of Minecraft the client is currently running.
+	showMcVersion = true
+	#Show the Fabric suffix, after the Minecraft version (Not default Fabric behavior anymore)
+	showFabric = false
