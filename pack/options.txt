@@ -1,0 +1,3 @@
+resourcePacks:["vanilla","fabric","file/Ascendent Survival Title.zip"]
+onboardAccessibility:false
+skipMultiplayerWarning:true
