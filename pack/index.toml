@@ -15,8 +15,18 @@ hash = "7ce187df270f85e0e0a1ceebc5d5b7cd66400ae2789b10ad36124b8e7b30fd55"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "fd735302264f2d668974725932d2f41abb3e2a1827eaf717068e806e40e5eabd"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "53537a38eacf6f6967d4940b62afdd03d3ffc19ecd41238f175bee5590be49df"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "86728cbc57c7646bb6d7d5838e65187e5335b319172e6dee8e78a455ffe02f40"
 metafile = true
 
 [[files]]
@@ -30,8 +40,18 @@ hash = "56b109a6965a62369b83970f06b95fc1e6899ecb6bba5f81d68bde79e6cbdf01"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "59d8a7808f69deae5bc1c17ed2db6c28cb231398681f6f7902ae7e92da229e1a"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "124922e3d93489052bd5457653064c248b4f61cd1b9098a04d7dd311357d0a74"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "35ae373825eb87bf1df271bbb30adcf000ea088ec8c9c3519dced09ad254c90b"
 metafile = true
 
 [[files]]
