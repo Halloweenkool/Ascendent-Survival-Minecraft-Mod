@@ -1,12 +1,12 @@
 name = "HardMode"
 author = "polishape"
-version = "1.1.19"
+version = "1.1.20"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c340ac6d3d466acce3f3c04025e6974b27119794f338213b1ce75b83e428d906"
+hash = "e6bef378aafa1072289f06bcd5ac7170f7b76a14bcea43fcbb90838a10efb4c4"
 
 [versions]
 minecraft = "26.1.2"
