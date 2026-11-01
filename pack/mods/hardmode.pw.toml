@@ -1,8 +1,8 @@
 name = "HardMode"
-filename = "HardMode-1.1.25.jar"
+filename = "HardMode-1.1.26.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Halloweenkool/Ascendent-Survival-Minecraft-Mod/releases/download/v1.1.25/HardMode-1.1.25.jar"
+url = "https://github.com/Halloweenkool/Ascendent-Survival-Minecraft-Mod/releases/download/v1.1.26/HardMode-1.1.26.jar"
 hash-format = "sha512"
-hash = "6a7618df8bff1cb862dff5474fd826ea292f867dcfbf14ea11da4e27dc00e2ef207542b758f80229845d3cd5194b1117de304c0090553f2f52ce005200f42aaa"
+hash = "f29c61bd74112e35fac9e90b61effbdf2d848d3afb1cef29038b00d6b90cb67362b0133ed0df023af31e9dcc71137a716263f2f68b23674362f7570c644030c4"
