@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/hardmode.pw.toml"
-hash = "0151be139c7fab29849d68e5365187186452865eeee772ea3ade13ad7b408562"
+hash = "c9543a96436b81e6a95f68566eaf2168ae68b0bd92764dd21a827a20d1006ded"
 metafile = true
 
 [[files]]
